@@ -11,7 +11,7 @@ from googleapiclient.errors import HttpError
 
 app = Flask(__name__)
 app.config["TEMPLATES_AUTO_RELOAD"] = True
-DEVELOPER_KEY = 'AIzaSyCd0GvTD33Z6XyeKa8lKP11lqc5BZ4A1v4'
+DEVELOPER_KEY = ''
 YOUTUBE_API_SERVICE_NAME = 'youtube'
 YOUTUBE_API_VERSION = 'v3'
 
